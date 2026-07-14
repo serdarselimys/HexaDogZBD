@@ -58,13 +58,10 @@ git --version
 ## 2. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/hexapod-simulation.git
+git clone https://github.com/serdarselimys/HexaDogZBD/Simulation Enviroments/Pybullet
+/HexaDog_ZBD-Demo/.git
 cd hexapod-simulation
 ```
-
-Replace `<your-username>` with the actual GitHub account/organization hosting the repo.
-
----
 
 ## 3. Create a Virtual Environment
 
