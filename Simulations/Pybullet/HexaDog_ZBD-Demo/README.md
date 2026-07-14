@@ -58,11 +58,9 @@ git --version
 ## 2. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/hexapod-simulation.git
-cd hexapod-simulation
+git clone https://github.com/serdarselimys/hexadogzbd/Simulations/Pybullet/HexaDog_ZBD-Demo/
+cd HexaDog_ZBD-Demo
 ```
-
-Replace `<your-username>` with the actual GitHub account/organization hosting the repo.
 
 ---
 
